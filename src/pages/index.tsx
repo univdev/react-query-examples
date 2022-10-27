@@ -1,8 +1,8 @@
+import { HomeScreen } from "../components/templates/HomeScreen";
+
 export const Home = () => {
   return (
-    <div className="div">
-      asd
-    </div>
+    <HomeScreen />
   );
 };
 
