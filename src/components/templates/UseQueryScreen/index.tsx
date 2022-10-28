@@ -1,5 +1,5 @@
 import { useQuery } from "@tanstack/react-query";
-import { Card, Col, Row, Typography } from "antd";
+import { Col, Row, Typography } from "antd";
 import { QueryCard } from "components/molecules/QueryCard";
 import Styles from './index.module.scss';
 
